@@ -1,0 +1,42 @@
+<div class="m-home">
+  <header>
+      <img src="/Japan-China/images/funguide.png" alt="">
+      <span>纵横日本</span>
+  </header>
+  <section spa-widget="scroll">
+    <div>
+      <div class="home-img1"><img src="/Japan-China/images/S60622-224413.png" /></div>
+      <div class="swiper-container" id="home-swiper1">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="/Japan-China/images/S60622-1.png">
+            <img src="/Japan-China/images/S60622-2.png">
+          </div>
+          <div class="swiper-slide">
+            <img src="/Japan-China/images/S60622-1.png">
+            <img src="/Japan-China/images/S60622-2.png">
+          </div>
+          <div class="swiper-slide">
+            <img src="/Japan-China/images/S60622-1.png">
+            <img src="/Japan-China/images/S60622-2.png">
+          </div>
+        </div>
+      </div>
+      <!-- 第二个轮播 -->
+      <div class="swiper-container" id="home-swiper2">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="/Japan-China/images/S60623-5.png">
+          </div>
+          <div class="swiper-slide">
+            <img src="/Japan-China/images/S60623-3.png">
+          </div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+      <div class="home-img2"><img src="/Japan-China/images/S60623-4.png" /></div>
+      <div class="home-foot"></div>
+    </div>
+  </section>
+</div>

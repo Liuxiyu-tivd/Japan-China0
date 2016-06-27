@@ -1,0 +1,126 @@
+.m-index{
+  .l-container{
+    .m-serch{
+      width: 100%;
+      height: 100%;
+      header{
+        background: #2c3642;
+        height: .44rem;
+        line-height: .44rem;
+        text-align: center;
+        span{
+          color: #fff;
+          font-size: .2rem;
+          font-weight: 100;
+        }
+      }
+      // 附近导航nav样式 横向scroll样式
+      .m-lifenav {
+        height: .34rem;
+        background: #f2f2f2;
+        width: 100%;
+        overflow: hidden;
+        ul {
+          width:9.6rem;
+          height: 100%;
+          li {
+            height: .34rem;
+            display: inline-block;
+            padding: 0 .04rem;
+            margin: 0 .05rem;
+            @include box-sizing(border-box);
+            text-align: center;
+            line-height: .34rem;
+            &.active {
+              border-bottom: .02rem solid #f6509e;
+              color: #f6509e;
+            }
+          }
+        }
+      }
+      .swiper-container{
+        width: 100%;
+        height: 100%;
+        .swiper-wrapper{
+          width: 100%;
+          height: 100%;
+          .swiper-slide{
+            width: 100%;
+            height: 100%;
+            #serch-view {
+              width: 100%;
+              height: 100%;
+              overflow: hidden;
+              .serch-all-content{
+                @include flexbox();
+                @include box-sizing(border-box);
+                width: 97%;
+                height: 1.15rem;
+                margin:.05rem;
+                border-radius:.05rem;
+                border: 1px solid #e9e9e9;
+                background: white;
+                .serch-img1{
+                  @include flexbox();
+                  @include justify-content(center);
+                  @include align-items(center);
+                  width: 1.15rem;
+                  height: 1.15rem;
+                  img{
+                    width: .84rem;
+                    height:.84rem;
+                  //  display: inline-block;
+                  }
+                }
+                .serch-text{
+                  @include flex(1);
+                  .serch-text1{
+                    line-height: .3rem;
+                    font-size: .15rem;
+                    color: #505050;
+                    font-weight: bold;
+                  }
+                  .serch-text2  {
+                    line-height: .17rem;
+                    font-size: .11rem;
+                    color: #929292;
+                    width: 100%;
+                    overflow: hidden;
+                    height: .34rem;
+
+                    display: -webkit-box;
+                    display: -moz-box;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    word-break: break-all;
+                    -webkit-box-orient: vertical;
+                    -webkit-line-clamp:2;
+
+                  }
+                  .serch-zhekou{
+                    width: 98%;
+                    border-top: 1px solid #e9e9e9;
+                    height: .33rem;
+                    margin-top: .1rem;
+                    line-height: .33rem;
+                    text-align: right;
+                    padding-right: .1rem;
+                    @include box-sizing(border-box);
+                    img{
+                      width: .16rem;
+                    }
+                  }
+                }
+              }
+
+            }
+          }
+        }
+      }
+
+
+    }
+  }
+}
+
+//

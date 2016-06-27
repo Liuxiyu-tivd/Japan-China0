@@ -1,0 +1,32 @@
+<div class="m-person">
+  <header><span>我的</span></header>
+  <section class="person-section">
+    <ul class="person-sec1">
+      <li>
+          <img src="/Japan-China/images/defult_head_big.png" alt="" />
+      </li>
+      <li>
+        <p><span>注册</span>/<span>登录</span></p>
+        <p class="yo-ico">&#xe642;  **********</p>
+        <p class="yo-ico">&#xe600;  0积分</p>
+      </li>
+      <li>
+        <img src="/Japan-China/images/btn_arrow_right.png" alt="" />
+      </li>
+    </ul>
+    <div class="person-sec2">
+      <img src="/Japan-China/images/S60625-1.png" alt="" />
+    </div>
+    <ul class="person-sec3">
+      <li class="active" action-type="tap.tab">会员等级</li>
+      <li action-type="tap.tab">收藏的用户</li>
+      <li action-type="tap.tab">收藏的商品</li>
+    </ul>
+    <div class="person-tab">未登录，请先登录</div>
+    <div class="person-tab" style="display:none;">还没有收藏商户哦，赶紧去逛逛吧！</div>
+    <div class="person-tab" style="display:none;">还没有收藏商品哦，赶紧去逛逛吧！</div>
+
+
+
+  </section>
+</div>

@@ -1,0 +1,198 @@
+<div class="m-serch">
+  <header>
+    <span>附近的人</span>
+  </header>
+  <nav class="m-lifenav" spa-widget="scroll" data-scroll-id="serch-scroll">
+    <ul>
+      <li class="active" action-type="tap.serch.slide">全部</li>
+      <li action-type="tap.serch.slide">日用·百货店</li>
+      <li action-type="tap.serch.slide">药妆店</li>
+      <li action-type="tap.serch.slide">超市·便利店</li>
+      <li action-type="tap.serch.slide">奥特莱斯</li>
+      <li action-type="tap.serch.slide">餐饮·小吃</li>
+      <li action-type="tap.serch.slide">电子产品</li>
+      <li action-type="tap.serch.slide">服装鞋帽</li>
+      <li action-type="tap.serch.slide">旅馆酒店</li>
+      <li action-type="tap.serch.slide">文体用品</li>
+      <li action-type="tap.serch.slide">书店·漫画</li>
+      <li action-type="tap.serch.slide">母婴</li>
+      <li action-type="tap.serch.slide">更多</li>
+    </ul>
+  </nav>
+  <div class="swiper-container" id="serch-swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <section spa-widget="scroll" id="serch-view">
+          <div>
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-11.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">104-0051东京都中央区松本清，商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-12.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">166-0044东京杉并阿佐之谷南1-35-12，松本清商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-11.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">104-0051东京都中央区松本清，商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-12.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">166-0044东京杉并阿佐之谷南1-35-12，松本清商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-11.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">104-0051东京都中央区松本清，商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-12.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">166-0044东京杉并阿佐之谷南1-35-12，松本清商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-11.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">104-0051东京都中央区松本清，商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-12.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">166-0044东京杉并阿佐之谷南1-35-12，松本清商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-11.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">104-0051东京都中央区松本清，商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+            <div class="serch-all-content">
+              <div class="serch-img1">
+                <img src="/Japan-China/images/S60623-12.png" />
+              </div>
+              <div class="serch-text">
+                  <p class="serch-text1" >松本清</p>
+                  <p class="serch-text2">166-0044东京杉并阿佐之谷南1-35-12，松本清商品种类繁多，可以尽情享受购物之旅,完美购物</p>
+                  <div class="serch-zhekou">
+                    <img src="/Japan-China/images/S60623-22.png"/>
+                  </div>
+              </div>
+            </div>
+
+          </div>
+        </section>
+      </div>
+      <div class="swiper-slide">
+        2
+      </div>
+      <div class="swiper-slide">
+        3
+      </div>
+      <div class="swiper-slide">
+        4
+      </div>
+      <div class="swiper-slide">
+        5
+      </div>
+      <div class="swiper-slide">
+        6
+      </div>
+      <div class="swiper-slide">
+        7
+      </div>
+      <div class="swiper-slide">
+        8
+      </div>
+      <div class="swiper-slide">
+        9
+      </div>
+      <div class="swiper-slide">
+        10
+      </div>
+      <div class="swiper-slide">
+        11
+      </div>
+      <div class="swiper-slide">
+        12
+      </div>
+      <div class="swiper-slide">
+        13
+      </div>
+    </div>
+  </div>
+</div>
